@@ -9,6 +9,7 @@
   justify-content: space-evenly;
   margin-top: 10px;
   margin-bottom: 10px;
+  flex-wrap: wrap;
 }
 .pokeCard {
   min-width: 20em;
